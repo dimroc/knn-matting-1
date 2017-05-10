@@ -140,3 +140,7 @@ $RECYCLE.BIN/
 
 # VSCODE
 .vscode/*
+bin/
+pip-selfcheck.json
+pyvenv.cfg
+share/
